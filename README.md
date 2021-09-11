@@ -5,7 +5,7 @@
   <br><br>
   <samp>
 I'm Domas. A freelance Web Designer & Developer from Šiauliai, Lithuania. I design and develop websites, landing pages and applications for startups and enterprises. 
-     <br><br><a href="mailto&#58;m&#97;i&#108;&#64;su&#114;&#106;&#105;&#116;&#37;68%63tly&#46;i%6E">Send an Email</a>
+     <br><br><a href="#">Send an Email</a>
   </samp>
 <br><br>
     <img src="https://visitor-badge.glitch.me/badge?page_id=vDomas777.vDomas777" alt="Visitors Counter">
